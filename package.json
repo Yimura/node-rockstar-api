@@ -1,5 +1,5 @@
 {
-  "name": "node-rockstar-api",
+  "name": "@yimura/node-rockstar-api",
   "version": "1.0.0",
   "description": "Unofficial Rockstar API",
   "main": "index.js",
