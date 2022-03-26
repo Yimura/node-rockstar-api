@@ -1,5 +1,5 @@
 {
-  "name": "rockstar-api",
+  "name": "node-rockstar-api",
   "version": "1.0.0",
   "description": "Unofficial Rockstar API",
   "main": "index.js",
